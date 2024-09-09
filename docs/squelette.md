@@ -1,10 +1,10 @@
 # Squelette pour un API simple dans Node, Express et TypeScript
   
 ## Identification de l'étudiant
-  Nom: Entrer votre nom 
-  Courriel: Entrer votre courriel
+  Nom: Xin Yu Song 
+  Courriel: xin-yu.song.1@ens.etsmtl.ca
   Code Moodle: Entrer votre code moodle
-  Identifiant Github: Entrer l'identifiant de votre compte github
+  Identifiant Github: songx198
 
 ## Introduction
 
@@ -159,6 +159,11 @@ Voici la même figure, mais sous forme de diagramme de séquence avec l'acteur. 
 
 4. Le Joueur demande à terminer le jeu.
 1. ~~Le Système affiche un tableau de bord avec les noms des joueurs et le ratio des parties gagnées (nombre de fois gagné / nombre de lancers).~~
+
+#### Redémarrer
+
+1. Le Joueur demande à redémarrer l'application.
+2. Le Système termine tous les jeux en cours et redémarre l'application.
 
 ### Diagramme de cas d'utilisation
 ![Diagramme de cas d'utilisation](modeles/dcu.svg)
