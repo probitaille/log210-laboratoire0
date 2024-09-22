@@ -32,6 +32,8 @@ class JeuDeDes {
     -_joueurs: Map<string, Joueur>
     -_d1: De
     -_d2: De
+    -_d3: De
+    +redemarrerJeu(): void
     +demarrerJeu(nom: string): string
     +jouer(nom: string): string
     +terminerJeu(nom: string): string
@@ -44,6 +46,7 @@ class JeuRouter {
     +controleurJeu: JeuDeDes
     +router: Router
     +demarrerJeu(req: Request<ParamsDictionary, any, any, QueryString.ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>, next: NextFunction): void
+    +redemarrerJeu(req: Request<ParamsDictionary, any, any, QueryString.ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>, next: NextFunction): void
     +jouer(req: Request<ParamsDictionary, any, any, QueryString.ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>, next: NextFunction): void
     -_errorCode500(error: any, req: Request<ParamsDictionary, any, any, QueryString.ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>): void
     +terminerJeu(req: Request<ParamsDictionary, any, any, QueryString.ParsedQs, Record<string, any>>, res: Response<any, Record<string, any>>, next: NextFunction): void
