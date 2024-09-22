@@ -11,4 +11,9 @@ Mais plus tard dans le semestre, si votre équipe porte votre (manque de) perfor
 
 Mettez votre réponse (environ 300 mots) ci-dessous:
 
+Durant mes études, j'ai souvent eu la chance de travailler avec des équipes où chacun faisait sa part du travail avec soin et sérieux. Nous avons rarement eu de conflits personnels, et chaque membre s'engageait à terminer sa partie dans les délais, ce qui a permis à nos projets de se dérouler sans heurts. Cependant, en lisant le texte sur les « parasites » et les « mollassons », j'ai pris conscience que cela n'est pas toujours le cas et que certaines équipes peuvent rencontrer des problèmes plus complexes.
+
+Même si je n'ai pas encore vécu ce genre de difficultés, je comprends maintenant qu'il est essentiel de fixer des attentes claires dès le début, de communiquer ouvertement et de ne pas laisser les comportements négatifs s’installer. Cela permet d'éviter que les membres moins engagés ne se reposent sur les autres pour accomplir leur part du travail. Grâce à cette réflexion, je me sens mieux préparé pour faire face à d’éventuels défis dans mes futures collaborations en équipe.
+
+Cette prise de conscience me sera également utile dans le monde professionnel, où les dynamiques d'équipe peuvent varier. Il est important de savoir gérer des situations difficiles, tout en maintenant une atmosphère de travail positive et productive.
 ---
